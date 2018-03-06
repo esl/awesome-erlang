@@ -96,6 +96,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
+* [Tsung](https://github.com/processone/tsung.git) - Tsung is multi-protocol distributed load testing tool.
 
 ## Logging
 *Libraries for generating and working with log files.*
