@@ -203,6 +203,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for caching data.*
 
 * [cache](https://github.com/fogfish/cache) - In-memory Segmented Cache
+* [eredis](https://github.com/wooga/eredis.git) - Erlang Redis client
+* [eredis_cluster](https://github.com/tongdao/eredis_cluster.git) - erlang wrapper for eredis to support cluster mode of redis 3.0.0+
+* [eredis_cluster_client](https://github.com/Tiroshan/eredis_cluster_client.git) - eredis_cluster_client is an erlang wrapper for eredis & implemented top of the eredis_cluster to connect multiple redis clusters (redis 3.0.0+)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
