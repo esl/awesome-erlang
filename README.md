@@ -94,6 +94,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
+* [triq](https://github.com/krestenkrab/triq) - Trifork QuickCheck.
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 * [Tsung](https://github.com/processone/tsung.git) - Tsung is multi-protocol distributed load testing tool.
