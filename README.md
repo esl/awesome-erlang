@@ -94,10 +94,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Testing
 *Libraries for testing codebases and generating test data.*
 
-* [triq](https://github.com/krestenkrab/triq) - Trifork QuickCheck.
 * [PropEr](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
 * [tracerl](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
-* [Tsung](https://github.com/processone/tsung.git) - Tsung is multi-protocol distributed load testing tool.
 
 ## Logging
 *Libraries for generating and working with log files.*
@@ -205,9 +203,6 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for caching data.*
 
 * [cache](https://github.com/fogfish/cache) - In-memory Segmented Cache
-* [eredis](https://github.com/wooga/eredis.git) - Erlang Redis client
-* [eredis_cluster](https://github.com/tongdao/eredis_cluster.git) - erlang wrapper for eredis to support cluster mode of redis 3.0.0+
-* [eredis_cluster_client](https://github.com/Tiroshan/eredis_cluster_client.git) - eredis_cluster_client is an erlang wrapper for eredis & implemented top of the eredis_cluster to connect multiple redis clusters (redis 3.0.0+)
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
